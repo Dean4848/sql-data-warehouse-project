@@ -1,5 +1,3 @@
-
-
 /*
 ================================================================================
 Stored Procedure: Load Silver layerr(Bronze -> Silver)
@@ -16,6 +14,7 @@ This stored procedure does not accept any parameter or return any values.
 
 =================================================================================
 */
+
 EXEC silver.load_silver
 
 
