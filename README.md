@@ -4,7 +4,7 @@
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
-- **Notion Project Plan (https://sassy-koala-9ee.notion.site/SQL-Data-Warehouse-Project-208d9b3994d98018addef5d88b8a407d)**
+- **Project Plan:(https://sassy-koala-9ee.notion.site/SQL-Data-Warehouse-Project-208d9b3994d98018addef5d88b8a407d)**
 
 ---
 ## 🏗️ Data Architecture
