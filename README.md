@@ -108,4 +108,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Dean Lawrence Williams** I’m an IT professional and passionate about data and enjoy transforming it!
+Hello! My name is **Dean Lawrence Williams**. I recently graduated with a Master's degree in Information Systems from Uppsala University and a Bachelor's degree in Information Technology from Maulana Abul Kalam Azad University of Technology. I am passionate about data and enjoy transforming it into meaningful insights.
